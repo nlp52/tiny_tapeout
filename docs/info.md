@@ -9,12 +9,12 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+This design connects to a P/S2 Keyboard that 
 
 ## How to test
 
-Explain how to use your project
+To test the project, connect to the PS2 Keyboard, and the Seven Segment Display should display the letter you press on the keyboard.
 
 ## External hardware
 
-List external hardware used in your project (e.g. PMOD, LED display, etc), if any
+The external hardware consists of a PS/2 keyboard and Seven Segment displays.
