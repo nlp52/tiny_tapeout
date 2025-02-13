@@ -9,7 +9,7 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-This design connects to a P/S2 Keyboard that 
+This design connects to a P/S2 Keyboard that will display the letter you press on the P/S2 keyboard.
 
 ## How to test
 
